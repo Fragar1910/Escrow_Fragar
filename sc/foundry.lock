@@ -1,0 +1,23 @@
+{
+  "../../DAO_Voting_Fragar/sc/lib/openzeppelin-contracts": {
+    "rev": "fcbae5394ae8ad52d8e580a3477db99814b9d565"
+  },
+  "../../documentSignStorage_Fragar/lib/forge-std": {
+    "rev": "100b0d756adda67bc70aab816fa5a1a95dcf78b6"
+  },
+  "../../documentSignStorage_Fragar/lib/openzeppelin-contracts": {
+    "rev": "eb97fd3f153589bc4d7cd0c512956b18aa844cfd"
+  },
+  "../../ecommerce_Fragar/smart-contracts/lib/forge-std": {
+    "rev": "7117c90c8cf6c68e5acce4f09a6b24715cea4de6"
+  },
+  "../../ecommerce_Fragar/smart-contracts/lib/openzeppelin-contracts": {
+    "rev": "fcbae5394ae8ad52d8e580a3477db99814b9d565"
+  },
+  "lib/openzeppelin-contracts": {
+    "tag": {
+      "name": "v5.5.0",
+      "rev": "fcbae5394ae8ad52d8e580a3477db99814b9d565"
+    }
+  }
+}
